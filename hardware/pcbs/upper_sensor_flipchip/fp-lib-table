@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name TCA6408ARSVR)(type Legacy)(uri /home/niklas/Bachelorarbeit/TCA6408ARSVR.mod)(options "")(descr ""))
+  (lib (name "DF37NB-10DS-0.4V(53)")(type Legacy)(uri "/home/niklas/Bachelorarbeit/flipchip_first_test/KiCad/DF37NB-10DS-0.4V(53).mod")(options "")(descr ""))
+  (lib (name "DF37NC-10DS-0.4V(51)")(type Legacy)(uri "/home/niklas/Bachelorarbeit/flipchip_first_test/KiCad/DF37NC-10DS-0.4V(51).mod")(options "")(descr ""))
+  (lib (name footrpints)(type KiCad)(uri ${KIPRJMOD}/footrpints)(options "")(descr ""))
+)
