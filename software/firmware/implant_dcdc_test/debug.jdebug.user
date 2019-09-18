@@ -1,0 +1,27 @@
+OpenDocument="startup_stm32l072xx.s", FilePath="/home/niklas/Bachelorarbeit/firmware/implant/startup_stm32l072xx.s", Line=21
+OpenDocument="main.c", FilePath="/home/niklas/Bachelorarbeit/firmware/implant/Src/main.c", Line=52
+OpenToolbar="File", Floating=0, x=0, y=0
+OpenToolbar="Debug", Floating=0, x=1, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=260, h=621, FilterBarShown=0, FilteredItems=[], RefreshRate=1, ToolbarShown=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=125, h=415, FilterBarShown=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=260, h=294, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Break & Tracepoints", DockArea=LEFT, x=0, y=1, w=125, h=481, FilterBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=779, h=125, FilterBarShown=0, EditorAddress=0x0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=1, w=260, h=294, FilterBarShown=1
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=3, w=260, h=214, FilterBarShown=0
+OpenWindow="Watched Data", DockArea=RIGHT, x=0, y=2, w=260, h=621, FilterBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=2, w=125, h=487, FilterBarShown=1
+OpenWindow="Data Graph", DockArea=BOTTOM, x=0, y=0, w=1587, h=125, FilterBarShown=0, VisibleTab=0, SamplingFreq=1 kHz, ClearEvent=RESUME, LegendShown=0, ToolbarShown=1, UniformSampleSpacing=0, PinCursor=-1, TimePerDiv=1000000
+OpenWindow="Find Results", DockArea=RIGHT, x=0, y=0, w=260, h=214, FilterBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=2, y=0, w=437, h=125, FilterBarShown=0
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[130;84;84;49;196]
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Size";"Refresh";"Type"], ColWidths=[191;84;84;48;27;38]
+TableHeader="Break & Tracepoints", SortCol="None", SortOrder="ASCENDING", VisibleCols=["";"Type";"Location";"Extras"], ColWidths=[27;51;70;265]
+TableHeader="Local Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[57;84;84;48;51]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[205;57;77;49;196]
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[190;70;57;77;749]
+TableHeader="DataGraphSamples", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time                    "], ColWidths=[84;51]
+TableHeader="Data Graph", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[99;57;62;112;105;91;97;110;854]
+TableHeader="tableWidgetSamples", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Channel 0"], ColWidths=[84;119;126]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Auto";"Name";"Value";"Description"], ColWidths=[37;44;42;259]
