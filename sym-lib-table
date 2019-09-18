@@ -1,8 +1,0 @@
-(sym_lib_table
-  (lib (name tierfet)(type Legacy)(uri /home/niklas/Bachelorarbeit/tierfet.lib)(options "")(descr ""))
-  (lib (name sx1261)(type Legacy)(uri /home/niklas/Bachelorarbeit/sx1261.lib)(options "")(descr ""))
-  (lib (name TS5A3359DCUT)(type Legacy)(uri /home/niklas/Bachelorarbeit/TS5A3359DCUT.lib)(options "")(descr ""))
-  (lib (name CSD75208W1015)(type Legacy)(uri /home/niklas/Bachelorarbeit/CSD75208W1015.lib)(options "")(descr ""))
-  (lib (name tmux1209)(type Legacy)(uri /home/niklas/Bachelorarbeit/tmux1209.lib)(options "")(descr ""))
-  (lib (name lmt70)(type Legacy)(uri /home/niklas/Bachelorarbeit/lmt70.lib)(options "")(descr ""))
-)
